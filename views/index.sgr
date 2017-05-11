@@ -12,5 +12,5 @@ extends(src='layout.sgr')
             data-item-id="{{ product.sku }}"
             data-item-image="{{ product.image }}"
             data-item-description="{{ product.description }}"
-            data-item-url="/"
+            data-item-url="https://spike-snipcart.netlify.com"
             data-item-price="{{ product.price }}") Buy it for {{ product.price }} $
