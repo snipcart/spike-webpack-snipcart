@@ -1,13 +1,13 @@
 extends(src='layout.sgr')
   block(name='content')
-    div(class='columns')
+    div.columns
       each(loop='product of products')
-        div(class="column")
+        div.column
 
-          img(src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail product_image")
-          div(class="title") {{ product.name }}
+          img.thumbnail.product_image(src="{{ product.image }}" alt="{{ product.name }}")
+          div.title {{ product.name }}
 
-          button(class="snipcart-add-item"
+          button.snipcart-add-item(
             data-item-name="{{ product.name }}"
             data-item-id="{{ product.sku }}"
             data-item-image="{{ product.image }}"
