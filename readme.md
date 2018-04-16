@@ -1,6 +1,12 @@
-# spike-snipcart
+# Webpack-Powered Static Site Generator Spike Tutorial
+***
+![spike](https://snipcart.com/media/175858/webpack-static-site-generator.png)
 
-A demo store using spike
+This repo contains the code for a demo Spike e-commerce website. 
+
+> [See live demo](http://spike-snipcart.netlify.com/)
+
+> [Read full tutorial](https://snipcart.com/blog/webpack-static-site-tutorial-spike)
 
 ## Setup
 
