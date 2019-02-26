@@ -1,12 +1,24 @@
 # Webpack-Powered Static Site Generator Spike Tutorial
-***
-![spike](https://snipcart.com/media/175858/webpack-static-site-generator.png)
 
-This repo contains the code for a demo Spike e-commerce website. 
+![spike](https://snipcart.com/media/204098/spike.png)
+
+This repo contains the code for a demo Spike e-commerce website. Spike is powered by webpack.
+
+If you're unfamiliar with this module bundler, don't worry, we explore all the basics in this webpack static site tutorial.
+
+We'll be using Spike to craft a webpack-powered online shop in five simple steps:
+
+- Declaring products
+- Tweaking our app.js
+- Creating views in Spike
+- Booting the webpack static site
+- Deploying on Netlify
+
+> [Read full tutorial](https://snipcart.com/blog/webpack-static-site-tutorial-spike)
 
 > [See live demo](http://spike-snipcart.netlify.com/)
 
-> [Read full tutorial](https://snipcart.com/blog/webpack-static-site-tutorial-spike)
+Enjoy folks!
 
 ## Setup
 
